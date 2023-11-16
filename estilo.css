@@ -1,7 +1,8 @@
 body{
-
     background-color: beige;
-}
+    color: blue;
+    font-size: 30px;
+    text-align: center;
 
 
 p{
