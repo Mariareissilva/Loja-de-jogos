@@ -1,4 +1,6 @@
 # Loja-de-jogos
+Eduardo Ribeiro e Maria Eduarda.
+
 venha conhecer a maior loja de jogos do bairro!
 os melhores jogos e com preços acessìveis que cabem no seu bolso!
 localizada no centro da cidade a Game Center traz ao mercado oque há de melhor no mundo dos games. fundada em 2022, a Game Center já è um grande destaque na cidade e ganha muitos clientes a cada dia.
@@ -17,7 +19,7 @@ Sekiro: Shadows Die Twice
 Resident Evil 7: Biohazard
 Final Fantasy VII Remake
 Nier: Automata
-Dark Souls III
+ SoulsDark III
 Overwatch
 Grand Theft Auto V
 Death Stranding
