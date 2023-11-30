@@ -21,7 +21,9 @@ p{
     width: 100%
 }
 
-
+#conteudo{
+    display: flex;
+}
 #foto2{
     width: 20%;
 }
